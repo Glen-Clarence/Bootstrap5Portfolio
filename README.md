@@ -8,3 +8,4 @@ Things I Learned doing this website
 * mixins
 * custom bootstrap mixins
 * Emmet Abbrevations
+* Accordion
